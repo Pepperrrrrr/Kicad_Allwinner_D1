@@ -1,0 +1,1 @@
+# Kicad_Allwinner_D1
