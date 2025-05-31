@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kicad_lceda")(type "KiCad")(uri "D:/allwinner/kicad_D1/lc2kicad/kicad_lceda.pretty")(options "")(descr ""))
+  (lib (name "LS_FPC_16P_0.5mm")(type "KiCad")(uri "D:/allwinner/kicad_D1/lc2kicad/LS_FPC_16P_0.5mm.pretty")(options "")(descr ""))
+)
