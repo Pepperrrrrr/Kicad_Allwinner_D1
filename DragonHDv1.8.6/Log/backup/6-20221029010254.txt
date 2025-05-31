@@ -1,0 +1,295 @@
+Round : 1
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 2
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 3
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test fail bit is 0xffffffff
+
+Round : 4
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 5
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test fail bit is 0xffffffff
+
+Round : 6
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 7
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test fail bit is 0xffffffff
+
+Round : 8
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 9
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 10
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 11
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test fail bit is 0xffffffff
+
+Round : 12
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 13
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 14
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 15
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 16
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 17
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 18
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 19
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester fail bit is 0xffffffff
+
+Running : DDR3-dma3_test
+
+Round : 20
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+All Test Finish!

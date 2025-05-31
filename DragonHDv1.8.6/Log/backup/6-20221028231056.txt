@@ -1,0 +1,183 @@
+Round : 1
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 2
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 3
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 4
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 5
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 6
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 7
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 8
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 9
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 10
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 11
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+
+Running : DDR3-memtester
+dram memtester test OK!
+
+Running : DDR3-dma3_test
+dram dma3 test OK!
+
+Round : 12
+Running : DDR3-uart_init
+uart init finish!
+
+Running : DDR3-dram_init
+DragonHD V3.0,dram size is 512M,dram init OK! channel0----(byte0 erro:0,byte1 erro:0,byte2 erro:0,byte3 erro:0)
+
+Running : DDR3-eye_scan
+DX0R :21-29
+DX1R :21-29
+DX2R :0-0
+DX3R :0-0
+DX0W :21-29
+ DX1W:21-29
+DX2W :0-0
+DX3W :0-0
+
+parameter Fail:[DDR3-eye_scan]  .
